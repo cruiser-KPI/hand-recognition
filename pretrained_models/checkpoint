@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Projects\\Python\\hand-recognition\\pretrained_models\\model.tfl"
+all_model_checkpoint_paths: "C:\\Projects\\Python\\hand-recognition\\pretrained_models\\model.tfl"
