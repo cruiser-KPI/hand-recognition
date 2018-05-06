@@ -1,6 +1,6 @@
 # Hand recognition
 
-Program uses ResNet ([paper link](https://arxiv.org/abs/1512.03385)) for object classification and selective search ([paper link](https://arxiv.org/abs/1512.03385)) to find possible object boxes.<br/>
+Program uses ResNet ([paper link](https://arxiv.org/abs/1512.03385)) for object classification and selective search ([paper link](https://koen.me/research/pub/uijlings-ijcv2013-draft.pdf)) to find possible object boxes.<br/>
 Packages required to run program are in `requirements.txt`. To use GPU install `CUDA v9.0` and `tensorflow-gpu` package should be installed (![instructions](https://www.tensorflow.org/install/)).<br/>
 Program should be run from `gui.py`. Result:<br/>
 ![image](https://image.ibb.co/n6weDn/program.png) <br/>
